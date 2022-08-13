@@ -25,7 +25,6 @@
 
 let x = 2;
 let a = 6;
-let b = 4;
 
 const f1 = function (a, b) {
   return a + b;
